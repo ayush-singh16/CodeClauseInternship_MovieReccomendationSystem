@@ -21,4 +21,5 @@ This project introduces a Movie Recommendation System, a result of the Code Clau
 Contributions are encouraged! If you have suggestions for enhancements or new features, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the Apache License 2.0.
+This project is licensed under the [Apache License 2.0](LICENSE).
+
